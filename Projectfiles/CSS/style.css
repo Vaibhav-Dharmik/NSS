@@ -1,0 +1,16 @@
+.back{
+    background-image: linear-gradient(120deg,#48d0e2,#46ffb8);
+}
+div .divph{
+    background-image:linear-gradient(120deg,#ff9924,#55ff46) ;
+   
+}
+.logo{
+    height: 10%;
+    width: 100%
+}
+.footer{
+    margin-left: 15%;
+}
+.legend{color:inherit;display:table;max-width:100%;padding:0;white-space:normal}
+
